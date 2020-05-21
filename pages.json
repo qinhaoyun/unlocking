@@ -1,0 +1,314 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				
+			}
+		},
+		{
+			"path": "pages/technician_Iindex/technician_Iindex",
+			"style": {
+				
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				
+			}
+		},
+		{
+			"path": "pages/phone_login/phone_login",
+			"style": {
+				
+			}
+		},
+		{
+			"path": "pages/get_code/get_code",
+			"style": {
+				
+			}
+		},
+		{
+			"path": "pages/register/register",
+			"style": {
+				
+			}
+		},
+		{
+			"path": "pages/register_success/register_success",
+			"style": {
+				
+			}
+		}, {
+			"path": "pages/technicist_register/technicist_register",
+			"style": {
+				
+			}
+		}, {
+			"path": "pages/technicist_select/technicist_select",
+			"style": {
+				
+			}
+		}, {
+			"path": "pages/map/map",
+			"style": {
+				
+			}
+		}, {
+			"path": "pages/confirm_order/confirm_order",
+			"style": {
+				
+			}
+		}, {
+			"path": "pages/addressList/addressList",
+			"style": {
+				
+			}
+		}, {
+			"path": "pages/addAddress/addAddress",
+			"style": {
+				
+			}
+		}, {
+			"path": "pages/amend/amend",
+			"style": {
+				
+			}
+		}, {
+			"path": "pages/s_s_personal/s_s_personal",
+			"style": {
+				
+			}
+		}, {
+			"path": "pages/order_receiving/order_receiving",
+			"style": {
+				
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/myWallet/myWallet",
+			"style": {
+				
+			}
+		}, {
+			"path": "pages/moreSet/moreSet",
+			"style": {
+				
+			}
+		}, {
+			"path": "pages/comment/comment",
+			"style": {
+				
+			}
+		}, {
+			"path": "pages/personal_information/personal_information",
+			"style": {
+			}
+		}, {
+			"path": "pages/order_list/order_list",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/complaint/complaint",
+			"style": {
+			}
+		}, {
+			"path": "pages/nickname/nickname",
+			"style": {
+			}
+		}, {
+			"path": "pages/phone/phone",
+			"style": {
+			}
+		}, {
+			"path": "pages/phone/changePhone/changePhone",
+			"style": {
+			}
+		}, {
+			"path": "pages/setLogin_pass/setLogin_pass",
+			"style": {
+			}
+		}, {
+			"path": "pages/setLogin_pass/import_code/import_code",
+			"style": {
+			}
+		}, {
+			"path": "pages/setLogin_pass/new_password/new_password",
+			"style": {
+			}
+		}, {
+			"path": "pages/technician_Iindex/my_evaluate/my_evaluate",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/technician_Iindex/orderDetails/orderDetails",
+			"style": {
+			}
+		}, {
+			"path": "pages/payment_code/payment_code",
+			"style": {
+			}
+		}, {
+			"path": "pages/payment_code/add_payment_code/add_payment_code",
+			"style": {
+			}
+		}, {
+			"path": "pages/confirm_order/input_payment_code/input_payment_code",
+			"style": {
+			}
+		}, {
+			"path": "pages/add_order/add_order",
+			"style": {
+			}
+		}, {
+			"path": "pages/personal_information/real_nam_authentication/real_nam_authentication",
+			"style": {
+			}
+		}, {
+			"path": "pages/technician_Iindex/difference/difference",
+			"style": {
+			}
+		}
+
+		, {
+			"path": "pages/technician_Iindex/technician_personal/technician_personal",
+			"style": {
+			}
+		}, {
+			"path": "pages/technician_details/technician_details",
+			"style": {
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/technician_Iindex/intro/intro",
+			"style": {
+			}
+		}, {
+			"path": "pages/order_receiving/pay_difference/pay_difference",
+			"style": {
+			}
+		}, {
+			"path": "pages/moreSet/about/about",
+			"style": {
+			}
+		}, {
+			"path": "pages/login/weixin_login/weixin_login",
+			"style": {
+			}
+		}
+	    ,{
+            "path" : "pages/agreement/agreement",
+            "style" : {
+			}
+        }
+        ,{
+            "path" : "pages/index/predict_rule/predict_rule",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/technician_Iindex/tech_wallet/tech_wallet",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/technician_Iindex/tech_wallet/tech_detail_account/tech_detail_account",
+            "style" : {
+				"navigationStyle":"default",
+				"navigationBarTitleText":"零钱明细"
+			}
+        }
+        ,{
+            "path" : "pages/myWallet/wallet_detail_account/wallet_detail_account",
+            "style" : {
+				"navigationStyle":"default",
+				"navigationBarTitleText":"余额明细"
+			}
+        }
+        ,{
+            "path" : "pages/technician_Iindex/technician_personal/tech_payment_code/tech_payment_code",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/technician_Iindex/technician_personal/tech_payment_code/tech_add_payment_code",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/technician_Iindex/technician_personal/individual_resume/individual_resume",
+            "style" : {
+				"navigationStyle":"default",
+				"navigationBarTitleText":"个人简介",
+				"navigationBarBackgroundColor":"#FFFFFF"
+			}
+        }
+        ,{
+            "path" : "pages/coupon/coupon",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/coupon/coupon_detail/coupon_detail",
+            "style" : {
+				"navigationStyle":"default",
+				"navigationBarTitleText":"优惠卷说明",
+				"navigationBarBackgroundColor":"#FFFFFF"
+			}
+        }
+        ,{
+            "path" : "pages/myWallet/save_money/save_money",
+            "style" : {
+				"navigationStyle":"default",
+				"navigationBarTitleText":"账户充值",
+				"navigationBarBackgroundColor":"#FFFFFF"
+			}
+        }
+        ,{
+            "path" : "pages/myWallet/payment_up/payment_up",
+            "style" : {
+				"navigationStyle":"default",
+				"navigationBarTitleText":"支付选择",
+				"navigationBarBackgroundColor":"#FFFFFF"
+			}
+        }
+        ,{
+            "path" : "pages/agreement/tech_agreement",
+            "style" : {
+				"navigationStyle":"default",
+				"navigationBarTitleText":"师傅协议",
+				"navigationBarBackgroundColor":"#FFFFFF"
+			}
+        }
+        ,{
+            "path" : "pages/flow_chart/flow_chart",
+            "style" : {
+				"navigationStyle":"default",
+				"navigationBarTitleText":"用户须知",
+				"navigationBarBackgroundColor":"#FFFFFF"
+			}
+        }
+        ,{
+            "path" : "pages/technician_Iindex/rule_set/rule_set",
+            "style" : {
+				"navigationStyle":"default",
+				"navigationBarTitleText":"平台规则",
+				"navigationBarBackgroundColor":"#FFFFFF"
+			}
+        }
+        ,{
+            "path" : "pages/technician_Iindex/technician_personal/bank_card/bank_card",
+            "style" : {
+				"navigationStyle":"default",
+				"navigationBarTitleText":"绑定银行卡",
+				"navigationBarBackgroundColor":"#FFFFFF"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle": "custom"
+	}
+}
